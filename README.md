@@ -1,4 +1,4 @@
-cd kubeflow-manifests/deployments/vanilla/terraform
+cd deployments/vanilla/terraform
 
 ### Initialize
 terraform init
